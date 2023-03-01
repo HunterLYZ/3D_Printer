@@ -8,5 +8,7 @@ Video description：【DIY悬臂3D打印机，低成本全金属方案开源】 
 ![fullview](https://user-images.githubusercontent.com/83868547/213654399-4d5f1a9c-c8ef-4fa1-b5e8-a13a7c635d52.jpg)
 
 A simple fanduct for better overhang
+
 https://www.thingiverse.com/thing:5817219
-![fullview](https://github.com/HunterLYZ/3D_Printer/blob/main/3dtouch%20BedLeveling/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-03-01%20191434.png?raw=true）
+
+![屏幕截图 2023-03-01 191434](https://user-images.githubusercontent.com/83868547/222128748-44b55e0b-ab7a-4f94-9cbc-1cf554297819.png)
